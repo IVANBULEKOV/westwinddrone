@@ -1,0 +1,34 @@
+/* #contactWords{ */
+    
+    /* color: white;
+  text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000; 
+     
+}*/
+
+
+/* #contactWordsBG{ */
+    /* background-color: rgba(255, 255, 255, 0.514); */
+    /* border: 1px solid black; */
+/* } */
+
+#contactLinks{
+    margin-top: 3em;
+    display: inline-block;
+}
+
+.socialLink{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+#droneBG{
+    /* width: 100%; */
+    /* height: 100%; */
+    background-color: rgba(255, 255, 255, 0.514);
+    /* display: inline-block; */
+    margin-bottom:3rem;
+}
